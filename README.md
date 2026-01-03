@@ -1,1 +1,1 @@
-# CodeAlpha_HandwrittenCharacterRecognition
+# Handwritten_Character_Recognition
